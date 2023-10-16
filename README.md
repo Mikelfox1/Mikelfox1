@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 🌱 I’m currently learning ... python
+# I'm still getting used to all of this.
+## Just checking on what these hashmarks do.
+#### Okay I think I get it
+Or do I? So a hash isn't needed but it's like a header, cool.
+Apologies havn't read their readme or looked in Google/YouTube for all this info.
 
 <!--
 **Mikelfox1/Mikelfox1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ... python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
